@@ -1,7 +1,5 @@
 # Modern Data Warehouse & Analytics
 
-## 📌 Project Description
-
 This project focuses on building a **modern data warehouse and analytics solution** using **SQL Server**. The goal is to consolidate sales data from two source systems, **ERP and CRM**, into a clean, integrated, and user-friendly data model for analytical reporting and business decision-making.
 
 The project covers the complete data engineering workflow, including **data ingestion, data cleansing, data integration, data modeling, and SQL-based analytics**.
