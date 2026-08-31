@@ -1,4 +1,4 @@
-# 🚀 Modern Data Warehouse & Analytics
+# Modern Data Warehouse & Analytics
 
 ## 📌 Project Description
 
