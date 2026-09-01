@@ -3,22 +3,14 @@
 Silver Layer CRM & ERP Table Setup
 --------------------------------------------------------------------------------
 Purpose:
-    Create and initialize the Silver Layer tables for CRM and ERP data.
-
-    The script drops existing Silver Layer tables and recreates them with
-    cleaned and structured columns, including a DWH creation timestamp.
+    Create Silver Layer tables for cleaned and transformed CRM & ERP data.
 
 Warning:
-    This script will permanently drop the existing Silver Layer tables
-    and all data stored in them before recreating the tables.
+    Existing Silver Layer tables will be dropped and recreated.
 
 Example Execution:
-    Run this script in the DataWarehouse2 database.
-
     USE DataWarehouse2;
     GO
-
-    -- Then execute this script.
 ================================================================================
 */
 
