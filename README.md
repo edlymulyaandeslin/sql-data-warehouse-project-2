@@ -87,10 +87,10 @@ Hi, I'm **Edly Mulya Andeslin**, a **Data Engineer** passionate about building r
 
 ### 🌐 Connect With Me
 
-[![LinkedIn](https://i.pinimg.com/736x/b7/5f/8e/b75f8e245c82e19b83fe26538771a783.jpg)](https://www.linkedin.com/in/edly-mulya-andeslin/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/edly-mulya-andeslin/)
 
-[![GitHub](https://i.pinimg.com/1200x/c7/2b/4a/c72b4ac15c09be8ad85e748b82d73ede.jpg)](https://github.com/edlymulyaandeslin)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github)](https://github.com/edlymulyaandeslin)
 
-[![Instagram](https://i.pinimg.com/736x/84/89/9a/84899a9d74eddd979fc87bbeac3cb4b1.jpg)](https://instagram.com/__elyynn)
+[![Instagram](https://img.shields.io/badge/Instagram-Profile-E4405F?style=for-the-badge&logo=instagram)](https://instagram.com/__elyynn)
 
-[![Email](https://i.pinimg.com/736x/ba/07/52/ba0752a95820dfbfbcd71f9e64da6a89.jpg)](mailto:edlymulyaandeslin@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:edlymulyaandeslin@gmail.com)
