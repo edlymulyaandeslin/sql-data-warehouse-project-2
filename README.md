@@ -84,3 +84,13 @@ See the [`LICENSE`](LICENSE) file for more information.
 ## 👨‍💻 About Me
 
 Hi, I'm **Edly Mulya Andeslin**, a **Data Engineer** passionate about building reliable data pipelines, data warehouses, and data-driven solutions. I am continuously developing my technical skills and gaining hands-on experience in data engineering through practical projects. My goal is to become a **professional Data Engineer** who can design and build scalable, reliable, and efficient data solutions that support meaningful business decisions.
+
+### 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/edly-mulya-andeslin/)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github)](https://github.com/edlymulyaandeslin)
+
+[![Instagram](https://img.shields.io/badge/Instagram-Profile-E4405F?style=for-the-badge&logo=instagram)](https://instagram.com/__elyynn)
+
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:edlymulyaandeslin@gmail.com)
