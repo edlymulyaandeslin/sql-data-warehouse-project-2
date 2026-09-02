@@ -49,7 +49,7 @@ For more details, refer to [`docs/requirements.md`](docs/requirements.md).
 
 The following diagram illustrates the overall data architecture of the modern data warehouse, from source systems to the analytics layer.
 
-![Data Architecture](docs/Design Architecture.png)
+![Data Architecture](docs/Design_Architecture.png)
 
 ### Architecture Overview
 
