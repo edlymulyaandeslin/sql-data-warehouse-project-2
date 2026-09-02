@@ -63,27 +63,6 @@ The data architecture consists of the following layers:
 | **Gold Layer** | Contains business-ready data modeled using a Star Schema. |
 | **Analytics** | SQL-based analytics and reporting for business insights. |
 
-### Data Flow
-
-```text
-ERP CSV ──────┐
-              │
-              ▼
-        Bronze Layer
-              │
-              ▼
-        Silver Layer
-              │
-              ▼
-         Gold Layer
-              │
-              ▼
-      Analytics & BI
-
-
-CRM CSV ──────┘
-```
-
 The final **Gold Layer** contains:
 
 - `gold.dim_customers`
