@@ -45,6 +45,55 @@ For more details, refer to [`docs/requirements.md`](docs/requirements.md).
 
 ---
 
+# 🏗️ Data Architecture
+
+The following diagram illustrates the overall data architecture of the modern data warehouse, from source systems to the analytics layer.
+
+![Data Architecture](docs/Design Architecture.png)
+
+### Architecture Overview
+
+The data architecture consists of the following layers:
+
+| Layer | Description |
+|---|---|
+| **Source Systems** | ERP and CRM systems providing raw sales data in CSV format. |
+| **Bronze Layer** | Stores raw data with minimal transformation. |
+| **Silver Layer** | Cleans, standardizes, and integrates data from ERP and CRM. |
+| **Gold Layer** | Contains business-ready data modeled using a Star Schema. |
+| **Analytics** | SQL-based analytics and reporting for business insights. |
+
+### Data Flow
+
+```text
+ERP CSV ──────┐
+              │
+              ▼
+        Bronze Layer
+              │
+              ▼
+        Silver Layer
+              │
+              ▼
+         Gold Layer
+              │
+              ▼
+      Analytics & BI
+
+
+CRM CSV ──────┘
+```
+
+The final **Gold Layer** contains:
+
+- `gold.dim_customers`
+- `gold.dim_products`
+- `gold.fact_sales`
+
+This architecture separates raw data, data transformation, business-ready data, and analytics workloads to make the data warehouse easier to maintain and scale.
+
+---
+
 # 🛡️ License
 
 This project is licensed under the **MIT License**.
